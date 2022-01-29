@@ -1,12 +1,5 @@
-# Copyright (C) 2019 The Raphielscape Company LLC.
-#
-# Licensed under the Raphielscape Public License, Version 1.d (the "License");
-# you may not use this file except in compliance with the License.
-#
-# You can find misc modules, which dont fit in anything xD
-#
-#
-#Modified by @PrajjuS
+# Copyright (C) 2019 The Raphielscape Company LLC.; Licensed under the Raphielscape Public License, Version 1.d (the "License"); you may not use this file except in compliance with the License.; Modified by @PrajjuS
+
 """ Userbot module for other small commands. """
 
 import io
@@ -121,7 +114,7 @@ async def repo_is_heree(wannaseee):
 async def repo_is_here(wannasee):
     """ For .deploy command, just returns the heroku deploying URL. """
     await wannasee.edit(
-        "[Click here](https://heroku.com/deploy?template=https://github.com/AbOuLfOoOoOuF/ProjectFizilionFork/tree/pruh) to deploy Fizilion Userbot on Heroku."
+        "[Click here](https://heroku.com/deploy?template=https://github.com/Hyperizer69/ProjectFizilionFork/tree/pruh) to deploy Fizilion Userbot on Heroku."
     )
 
 @register(outgoing=True, pattern="^\{trg}support$".format(trg=trgg))

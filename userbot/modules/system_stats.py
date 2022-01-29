@@ -1,8 +1,5 @@
-# Copyright (C) 2019 The Raphielscape Company LLC.
-#
-# Licensed under the Raphielscape Public License, Version 1.d (the "License");
-# you may not use this file except in compliance with the License.
-#
+# Copyright (C) 2019 The Raphielscape Company LLC.; Licensed under the Raphielscape Public License, Version 1.d (the "License"); you may not use this file except in compliance with the License.
+
 """ Userbot module for getting information about the server. """
 
 import platform
@@ -242,7 +239,7 @@ async def chnglogg(event):
         \nuse it by replying to a sticker and sending .ok\
         \n\nAdded afk by bot, to setup u need to make a group and add bots to it then add its id as AFK_CHATID.\nTo go afk by bots send .afk-b. it takes a reason too like the normal afk and removes afk when u send any message.\
         \n\nAdded purge from and to but its not complete yet so not recommended to use.\
-        \n\nThis changelog is valid for the last update to forkzilion (ProjectFizilion fork by AbOuLfOoOoOuF) only.")
+        \n\nThis changelog is valid for the last update to forkzilion (ProjectFizilion fork by Hyperizer69) only.")
 
 CMD_HELP.update(
     {

@@ -21,7 +21,7 @@
     I will be rolling on the floor laughing at you.
 /**
 ```
-[![Build](https://img.shields.io/github/workflow/status/AbOuLfOoOoOuF/ProjectFizilionFork/FailedChecker?style=for-the-badge)](https://github.com/AbOuLfOoOoOuF/ProjectFizilionFork/actions "build")
+[![Build](https://img.shields.io/github/workflow/status/Hyperizer69/ProjectFizilionFork/FailedChecker?style=for-the-badge)](https://github.com/Hyperizer69/ProjectFizilionFork/actions "build")
 [![Build](https://img.shields.io/github/workflow/status/PrajjuS/ProjectFizilion/FailedChecker?style=for-the-badge)](https://github.com/PrajjuS/ProjectFizilion/actions "build")
 
 ![Spec](https://img.shields.io/badge/Made%20with-LOVE-black?style=for-the-badge)
@@ -62,7 +62,7 @@ curl -L https://git.io/Jyiwj > session_gen.sh && bash session_gen.sh
 ### Deploy on Heroku
 Make sure you have an account of heroku and follow all the steps required.
 
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/AbOuLfOoOoOuF/ProjectFizilionFork/tree/pruh"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Hyperizer69/ProjectFizilionFork/tree/pruh"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ## Groups and Support
 
